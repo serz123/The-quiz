@@ -1,11 +1,11 @@
 # The Quiz
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-- ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=eslint&logoColor=white)
-- ![RESTful API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
 
 The quiz is a single-page client application where users answer quiz questions served by a server using a RESTful API. The user's answers are validated by the server, and the game progresses based on their correctness.
 
